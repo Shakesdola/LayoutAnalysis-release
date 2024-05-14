@@ -1,0 +1,50 @@
+Evaluating IoU for 90.png:
+Class [0, 0, 255], IoU = 0.8883977666864056, Precision = 0.9737141002758397, recall = 0.9102275189599133
+Class [0, 255, 255], IoU = 0.9195674441254009, Precision = 1.0, recall = 0.9195674441254009
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 91.png:
+Class [0, 0, 255], IoU = 0.9081420217565849, Precision = 0.9791620381365346, recall = 0.9260391685202762
+Class [0, 255, 255], IoU = 0.896413812149247, Precision = 0.9985826589976433, recall = 0.8975557969583251
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 92.png:
+Class [0, 0, 255], IoU = 0.8881151692087702, Precision = 0.9788468799763598, recall = 0.9054937545085234
+Class [0, 255, 255], IoU = 0.9310992171273367, Precision = 1.0, recall = 0.9310992171273367
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 93.png:
+Class [0, 0, 255], IoU = 0.8734976830398518, Precision = 0.9765423605182232, recall = 0.8922185618539135
+Class [0, 255, 255], IoU = 0.919855613518926, Precision = 1.0, recall = 0.919855613518926
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 94.png:
+Class [0, 0, 255], IoU = 0.8863535681912668, Precision = 0.9831420752634523, recall = 0.9000325266268504
+Class [0, 255, 255], IoU = 0.9272783000618031, Precision = 1.0, recall = 0.9272783000618031
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 95.png:
+Class [0, 0, 255], IoU = 0.8824148228586942, Precision = 0.9848278265085064, recall = 0.8945760542738601
+Class [0, 255, 255], IoU = 0.9258031911416402, Precision = 1.0, recall = 0.9258031911416402
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 96.png:
+Class [0, 0, 255], IoU = 0.8799596017890636, Precision = 0.9751564617563308, recall = 0.9001391543910942
+Class [0, 255, 255], IoU = 0.9216207487640673, Precision = 1.0, recall = 0.9216207487640673
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 97.png:
+Class [0, 0, 255], IoU = 0.9037832087720256, Precision = 0.974959909373115, recall = 0.9252603948507442
+Class [0, 255, 255], IoU = 0.9367909479128479, Precision = 1.0, recall = 0.9367909479128479
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 98.png:
+Class [0, 0, 255], IoU = 0.885812494749517, Precision = 0.9812943503043934, recall = 0.901026831491398
+Class [0, 255, 255], IoU = 0.9023709411338672, Precision = 1.0, recall = 0.9023709411338672
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0
+Evaluating IoU for 99.png:
+Class [0, 0, 255], IoU = 0.8938542760676953, Precision = 0.9815322218610195, recall = 0.9091443524393303
+Class [0, 255, 255], IoU = 0.8862704696584368, Precision = 1.0, recall = 0.8862704696584368
+Class [255, 0, 0], IoU = 0, Precision = 0, recall = 0
+Class [255, 0, 255], IoU = 0, Precision = 0, recall = 0

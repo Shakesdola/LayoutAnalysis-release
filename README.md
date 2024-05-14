@@ -14,7 +14,7 @@ Generate label files(txt) class 0: decoration class 1:text_area format: <class_i
 
 File Folder Structure
 
-train model [model = YOLO('yolov8n-seg.pt')] validate model 【Layout_analysis_training.ipynb】
+Train model [model = YOLO('yolov8n-seg.pt')] validate model 【Layout_analysis_training.ipynb】
 
 Prediction 【predict_and_mask.py】
 
